@@ -1,7 +1,4 @@
 # PRODIGY_DS_05
-Certainly! Here’s a comprehensive README and project guide for a project focused on analyzing traffic accident data to identify patterns related to road conditions, weather, and time of day, as well as visualizing accident hotspots and contributing factors.
-
----
 
 ## Traffic Accident Analysis: Identifying Patterns and Visualizing Hotspots
 
