@@ -63,13 +63,7 @@ Here are some visualizations and results produced by the analysis script:
 - **Time of Day Patterns:** Examined how the time of day influences accident rates.
 - **Insights:** Provided recommendations for road safety improvements based on the patterns observed.
 
-### Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-### License
-
-MIT License. See [LICENSE](LICENSE) for details.
 
 ### `analyze_traffic_accidents.py` Script
 
